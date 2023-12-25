@@ -2,4 +2,4 @@
 <br>
 The webiste live at
 <br>
-https://fanta-animation-website.netlify.app/
+https://fanta-website-animation.netlify.app/
